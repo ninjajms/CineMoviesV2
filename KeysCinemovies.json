@@ -1,0 +1,25 @@
+{
+  "cinemovies": [
+    {
+      "conjunto": "eyJzYWx0IjoiNDM0Iiwic2lnbiI6IjdjYjM4NWFmNjE4YWY1Zjc3ZmZjODYzNTljMWIzYzlhIiwi\nbWV0aG9kX25hbWUiOiJnZXRfaG9tZSJ9"
+    },
+    {
+      "movies": "eyJzYWx0IjoiNzQyIiwic2lnbiI6IjkzZmY0NmQzN2Q5M2FhZmRkYzc5NDVhMGE4OGY4ZmFjIiwi\nbWV0aG9kX25hbWUiOiJnZXRfbGF0ZXN0X21vdmllcyIsInBhZ2UiOjF9"
+    },
+    {
+      "series": "eyJzYWx0IjoiNzkyIiwic2lnbiI6IjUxMjhlYzVlM2ViOGIwYzIxNGMwNjY2MjFjMDU2ZjU5Iiwi\nbWV0aG9kX25hbWUiOiJnZXRfc2VyaWVzIiwicGFnZSI6MX0\u003d"
+    },
+    {
+      "categoria": "eyJzYWx0IjoiMjg3Iiwic2lnbiI6IjU4MWU0ZDY3Zjc4MGQzZDE5NWVkMDliZGYyYTNhM2U1Iiwi\nbWV0aG9kX25hbWUiOiJnZXRfZ2VucmUiLCJwYWdlIjoxfQ\u003d\u003d"
+    },
+    {
+      "search": "eyJzYWx0IjoiMjEiLCJzaWduIjoiMTM4YjAxOGM2YTYyMGIzOWZmODcwNzMxNDg5NmUzMDEiLCJt\nZXRob2RfbmFtZSI6InNlYXJjaF9hbGwiLCJzZWFyY2hfdGV4dCI6ImhvbWVtIn0\u003d"
+    },
+    {
+      "searchseries": "eyJzYWx0IjoiNzg4Iiwic2lnbiI6IjI3NDMxYTRhYmJiYWUyNWYyNWNlYzJjOGQyNDNjOWM2Iiwi\nbWV0aG9kX25hbWUiOiJnZXRfc2VhcmNoX3NlcmllcyIsInNlYXJjaF90ZXh0IjoiaG9tZW0iLCJw\nYWdlIjoxfQ\u003d\u003d"
+    },
+    {
+      "searchmovies": "eyJzYWx0IjoiNDc2Iiwic2lnbiI6ImU1Yzg0NjVhMjBlMzQ0YmZkMDNkMjgwMDAwOWI1N2ZhIiwi\nbWV0aG9kX25hbWUiOiJnZXRfc2VhcmNoX21vdmllcyIsInNlYXJjaF90ZXh0IjoiaG9tZW0iLCJw\nYWdlIjoxfQ\u003d\u003d"
+    }
+  ]
+}
