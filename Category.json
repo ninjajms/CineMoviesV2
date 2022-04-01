@@ -1,0 +1,136 @@
+{
+  "LIVETV": [
+    {
+      "id": "3",
+      "genre_name": " Ação",
+      "genre_image": "http://visionnetworks.site//images/62874_unnamed.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/62874_unnamed.jpg"
+    },
+    {
+      "id": "8",
+      "genre_name": "Animação",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "10",
+      "genre_name": "Aventura",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "7",
+      "genre_name": "Comédia",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "21",
+      "genre_name": "Crime",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "14",
+      "genre_name": "Documentários",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "5",
+      "genre_name": "Drama",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "9",
+      "genre_name": "Família",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "15",
+      "genre_name": "Fantasia",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "16",
+      "genre_name": "Faroeste",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "13",
+      "genre_name": "Ficção científica",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "22",
+      "genre_name": "Gospel",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "17",
+      "genre_name": "Guerra",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "19",
+      "genre_name": "História",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "11",
+      "genre_name": "Lançamentos",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "23",
+      "genre_name": "Lgbt",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "20",
+      "genre_name": "Mistério",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "18",
+      "genre_name": "Música",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "24",
+      "genre_name": "Natal",
+      "genre_image": "http://visionnetworks.site//images/3362_",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/3362_"
+    },
+    {
+      "id": "6",
+      "genre_name": "Romance",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "4",
+      "genre_name": "Suspense",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    },
+    {
+      "id": "1",
+      "genre_name": "Terror",
+      "genre_image": "http://visionnetworks.site//images/pornozão.jpg",
+      "genre_image_thumb": "http://visionnetworks.site//images/thumbs/pornozão.jpg"
+    }
+  ]
+}
